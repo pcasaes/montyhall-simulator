@@ -1,0 +1,5 @@
+montyhall-simulator
+    Copyright [2019] Paulo Casaes
+
+      This product includes software developed at
+      Github (https://github.com/pcasaes/montyhall-simulator).
